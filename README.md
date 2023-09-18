@@ -1,8 +1,5 @@
-# learning_git_github
+## Resume
 
-This is my initial commit
-
-# Resume
-
-Internship Experience
+# Internship Experience
 Castled Data
+NoQs dIGITAL
