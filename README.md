@@ -7,4 +7,5 @@ TwoWaits
 Code on board
 
 ## Education Experience
-pursuing Btech cse from Amity University (2024)
+- pursuing Btech cse from Amity University (2024)
+- class 12th 
