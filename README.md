@@ -1,5 +1,10 @@
 ## Resume
 
 # Internship Experience
-Castled Data
+
 NoQs dIGITAL
+TwoWaits
+Code on board
+
+## Education Experience
+pursuing Btech cse from Amity University (2024)
